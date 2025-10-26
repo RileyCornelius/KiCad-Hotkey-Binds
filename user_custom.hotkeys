@@ -158,7 +158,7 @@ common.Interactive.findNext	F3
 common.Interactive.findNextMarker	Ctrl+Shift+F3	
 common.Interactive.findPrevious	Shift+F3	
 common.Interactive.finish	End	
-common.Interactive.measureTool	F7	
+common.Interactive.measureTool	M	
 common.Interactive.paste	Ctrl+V	
 common.Interactive.pasteSpecial	Ctrl+Shift+V	
 common.Interactive.redo	Ctrl+Y	
