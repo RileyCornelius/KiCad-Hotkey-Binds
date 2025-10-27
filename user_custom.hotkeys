@@ -109,7 +109,7 @@ common.Control.showFootprintBrowser
 common.Control.showFootprintEditor		
 common.Control.showLibraryTree		
 common.Control.showProjectManager		
-common.Control.showProperties E		
+common.Control.showProperties		
 common.Control.showSymbolBrowser		
 common.Control.showSymbolEditor		
 common.Control.toggleBoundingBoxes		
@@ -463,15 +463,15 @@ kicad.Control.pluginContentManager	Ctrl+M
 kicad.Control.showCalculator		
 kicad.Control.viewDroppedGerbers		
 kicad.Control.viewGerbers	Ctrl+G	
-pcbnew.AlignAndDistribute.alignBottom Ctrl+Down		
+pcbnew.AlignAndDistribute.alignBottom	Ctrl+Down
 pcbnew.AlignAndDistribute.alignCenterX		
 pcbnew.AlignAndDistribute.alignCenterY		
-pcbnew.AlignAndDistribute.alignLeft Ctrl+Left
-pcbnew.AlignAndDistribute.alignRight Ctrl+Right		
-pcbnew.AlignAndDistribute.alignTop Ctrl+Up	
+pcbnew.AlignAndDistribute.alignLeft	Ctrl+Left	
+pcbnew.AlignAndDistribute.alignRight	Ctrl+Right	
+pcbnew.AlignAndDistribute.alignTop	Ctrl+Up	
 pcbnew.AlignAndDistribute.distributeHorizontallyCenters	Ctrl+Shift+Right	
 pcbnew.AlignAndDistribute.distributeHorizontallyGaps		
-pcbnew.AlignAndDistribute.distributeVerticallyCenters Ctrl+Shift+Up		
+pcbnew.AlignAndDistribute.distributeVerticallyCenters	Ctrl+Shift+Up	
 pcbnew.AlignAndDistribute.distributeVerticallyGaps		
 pcbnew.Array.createArray	Ctrl+T	
 pcbnew.Autoplacer.autoplaceOffboard		
@@ -526,7 +526,7 @@ pcbnew.Control.padDisplayMode
 pcbnew.Control.ratsnestLineMode		
 pcbnew.Control.ratsnestModeCycle		
 pcbnew.Control.repairBoard		
-pcbnew.Control.showLayersManager 7		
+pcbnew.Control.showLayersManager		
 pcbnew.Control.showNetInspector		
 pcbnew.Control.showPadNumbers		
 pcbnew.Control.showPythonConsole		
@@ -579,7 +579,7 @@ pcbnew.EditorControl.importSpecctraSession
 pcbnew.EditorControl.lock		
 pcbnew.EditorControl.placeFootprint	A	
 pcbnew.EditorControl.removeFromGroup		
-eeschema.EditorControl.showPcbNew	F4		
+pcbnew.EditorControl.showEeschema	F4		
 pcbnew.EditorControl.showNet		
 pcbnew.EditorControl.toggle45	Shift+Space	
 pcbnew.EditorControl.toggleLastNetHighlight		
