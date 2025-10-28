@@ -288,7 +288,7 @@ eeschema.InteractiveDrawing.placePowerSymbol	Tab
 eeschema.InteractiveDrawing.placeSchematicText	T	
 eeschema.InteractiveDrawing.placeSheetPin		
 eeschema.InteractiveDrawing.placeSymbol	A	
-eeschema.InteractiveDrawing.syncAllSheetsPins	6	
+eeschema.InteractiveDrawing.syncAllSheetsPins
 eeschema.InteractiveDrawing.syncSheetPins		
 eeschema.InteractiveDrawingLineWireBus.drawBuses	
 eeschema.InteractiveDrawingLineWireBus.drawLines	C	
