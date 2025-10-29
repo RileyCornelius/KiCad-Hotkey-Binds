@@ -344,8 +344,8 @@ eeschema.NavigateTool.changeSheet
 eeschema.NavigateTool.enterSheet		
 eeschema.NavigateTool.forward	Alt+Right	
 eeschema.NavigateTool.leaveSheet	Alt+Back	
-eeschema.NavigateTool.next	1	
-eeschema.NavigateTool.previous	2	
+eeschema.NavigateTool.next	2	
+eeschema.NavigateTool.previous	1	
 eeschema.NavigateTool.up	Alt+Up	
 eeschema.PinEditing.pushPinLength		
 eeschema.PinEditing.pushPinNameSize		
